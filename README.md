@@ -1,2 +1,0 @@
-# Jekyll
-pierre bourne
